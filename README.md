@@ -3,4 +3,4 @@ This is a bouncing ball program, just a little script for fun, when you run it, 
 
 Disclaimer: This script has been only tested on Linux so far, if the outcome is not the expected in other OS perhaps is a matter of tweaking the sleep time
 
-![](https://github.com/SantiagoLopezDeharo/bouncing-ball/master/demo.gif)
+![](https://github.com/SantiagoLopezDeharo/bouncing-ball/demo.gif)
